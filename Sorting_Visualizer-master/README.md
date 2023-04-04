@@ -1,5 +1,7 @@
 # Sorting_Visualizer
 
+This Project is done by Rohit prajapati
+
 A web application showcasing the inner workings of sorting algorithms.
 
 Implemented algorithms:

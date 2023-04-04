@@ -1,6 +1,6 @@
 /*
     *****************
-    DONE BY:-   TUMMALA KETHAN
+    DONE BY:-   Rohit Prajatpai
     
     *****************
 */
@@ -75,7 +75,6 @@ function merge_partition(start,end)
 
 /*
     *****************
-    DONE BY:-   TUMMALA KETHAN
-    
+    DONE BY:-  Rohit Prajapati
     *****************
 */
